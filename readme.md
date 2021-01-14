@@ -24,7 +24,7 @@ To install Wifiphiser you should
 execute the following commands.
 And save ngrok in the wifiphiser folder.
 ```
-- [Dwonload ngrok](http://ngrok.com)
+- [ngrok](http://ngrok.com)
 
 # Linux
 ```
@@ -53,4 +53,4 @@ $ ./wifiphiser.sh
   <img src="imgs/fonts.jpg">
 </p>
 
-- [Donasi](https://saweria.co/katandev18) From Saweria
+- [Donasi](https://saweria.co/katandev18)
