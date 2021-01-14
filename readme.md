@@ -49,8 +49,4 @@ $ ./wifiphiser.sh
 # Demo
 [![asciicast](https://asciinema.org/a/Govx3EEzK2nHOPAo7KbXJ6XX9.svg)](https://asciinema.org/a/Govx3EEzK2nHOPAo7KbXJ6XX9)
 
-<p align="center">
-  <img src="imgs/fonts.jpg">
-</p>
-
 - [Donasi](https://saweria.co/katandev18)
