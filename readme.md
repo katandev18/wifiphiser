@@ -63,7 +63,7 @@ And save ngrok in the wifiphiser folder.
 
 # Wifiphiser execution
 <details>
-<summary>Wifiphiser installation</summary>
+<summary>Wifiphiser execution</summary>
 
 ```
 To run Wifiphuser you should
