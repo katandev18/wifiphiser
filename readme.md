@@ -46,8 +46,8 @@ $ cd wifiphiser
 $ chmod +x install.sh
 $ ./install.sh <os type>
 > checking os type dpkg --print-architecture
-> 64bit: arm
-> 32bit: arm64
+> 64bit: arm64
+> 32bit: arm
 ```
 # Windows
 - [php](https://www.php.net/downloads.php)
